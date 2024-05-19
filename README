@@ -1,0 +1,14 @@
+npm init -y
+npm install --save-dev vite @vitejs/plugin-react
+npm install react react-dom
+npm install bulma
+testのところを
+
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+
+に変更
+
+
+<line x1='100' y1='0' x2='100' y2={svgHeight} stroke='black'></line>
